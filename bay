@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projet d'Aide Alimentaire</title>
+    
+    <!-- Lien vers votre fichier CSS externe ou styles internes -->
+    <style>
+        body {
+            background-color: #f4f4f4; /* Couleur de fond de la page */
+            color: #333; /* Couleur du texte principal */
+            font-family: Arial, sans-serif; /* Police de caractères par défaut */
+        }
+
+        header {
+            background-color: #3498db; /* Couleur de fond de l'en-tête */
+            color: #fff; /* Couleur du texte de l'en-tête */
+            padding: 20px;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #2c3e50; /* Couleur de fond du pied de page */
+            color: #fff; /* Couleur du texte du pied de page */
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Votre Projet d'Aide Alimentaire</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>À propos de notre projet</h2>
+            <p>Écrivez ici une brève description de votre projet et son objectif.</p>
+        </section>
+
+        <section>
+            <h2>Comment vous pouvez aider</h2>
+            <p>Expliquez ici comment les gens peuvent contribuer ou bénéficier de votre aide alimentaire.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contactez-nous : votre@email.com</p>
+    </footer>
+
+</body>
+</html>
